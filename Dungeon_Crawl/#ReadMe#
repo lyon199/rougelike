@@ -1,0 +1,16 @@
+Dungeon Crawl is a game about slaying monsters using fun combat and having satisfying character progression
+
+-- Creating multiple characters --
+Rename the file "playerFile" to something else. i.e. playerFile1 (a better way would be to use the character's name)
+Create a new .txt fil with the name "playerFile"
+Run game
+# This will run you through character creation and save that character to the new file
+if you want to resume your old progress change the old files name back to playerFile
+and be sure to change the name of the file you were just running
+
+# Weapon Abilities #
+Lifesteal - returns hp on hit
+Sharp Edges - chance to deal bonus damage
+
+# gear ability #
+Negate - has a chance to completely negate damage

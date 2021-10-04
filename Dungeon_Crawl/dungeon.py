@@ -1,0 +1,2 @@
+class DungeonRoom:
+    pass
