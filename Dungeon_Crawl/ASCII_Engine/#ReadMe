@@ -1,5 +1,0 @@
-Okay, so I have my ascii display. 
-So I now need a gui class, and a game map class. 
-The GameMapObject class will populate my GameMap using GameMaster. 
-My gui will be managed similarily. 
-Then my asciidisplay needs to sew those two together. 
