@@ -1,3 +1,5 @@
+#the basis for the array for both the gamemap and the ui classes
+
 import os
 
 class AsciiDisplay:
@@ -12,7 +14,7 @@ class AsciiDisplay:
             for y in range(cols):
                 list.append(blank_char)
             self.display.append(list)
-#I always use git add -p to add my changes change by change, that way I can be sure what I'm committing is what I expect
+
     def print(self):
         for x in range(self.rows):
             for y in range(self.cols):
